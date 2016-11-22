@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My first repository - to learn about the creation of repositories on github
